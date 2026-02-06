@@ -1,0 +1,6 @@
+node_modules/
+.env
+certs/localhost.pem
+certs/localhost-key.pem
+certs/localhost.pfx
+*.log
